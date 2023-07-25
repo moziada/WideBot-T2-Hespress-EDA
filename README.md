@@ -1,5 +1,7 @@
 # Hespress Stories EDA
 
+This repository is for doing exploratory data analysis to the public [Hespress stories dataset](https://www.kaggle.com/datasets/tariqmassaoudi/hespress) as a part of assesment tasks for [WideBot](https://widebot.net)
+
 ```python
 import pandas as pd
 import numpy as np
